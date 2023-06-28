@@ -3,8 +3,11 @@ info:
   title: MoldON API V1
   version: 1.0.0
   description: |-
-    Moldon BusinessRegistration OCR API
+    MoldON Business Registration OCR API
     - 1. 사업자등록증 OCR
+  x-logo: 
+    url: 'https://hjjeon-0.github.io/business_reg_ocr_api/moldon_logo.png'
+    altText: A Logo image of MoldON
 
 paths:
   /BusinessRegistrationOCR:
